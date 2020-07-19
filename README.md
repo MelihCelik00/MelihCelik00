@@ -2,11 +2,11 @@
 
 <img src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2>
 
-Hello everyone, I'm Melih. I am a software developer from Turkey. I am Geomatics Engineering Student at Istanbul Technical University. I love working on Robotics and Game Development. I love to code with Python, C# and C++.
+Hello everyone, I'm Melih. I'm a software developer from Turkey. I'm Geomatics Engineering Student at Istanbul Technical University. I love working on Robotics and Game Development. I love to code with Python, C# and C++.
 
 **Summary about me:**
 
-- 🔭 I’m currently working on a Hyper Casual Games with Unity.
+- 🔭 I’m currently working on Hyper Casual Games with Unity.
 - 🌱 I’m currently learning C++(to get better at it) and Game Development.
 - 💬 Ask me about anything you think that I can answer.
 - 📫 How to reach me: You can reach me via email: melihsafa.c@gmail.com
