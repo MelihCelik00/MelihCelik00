@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MelihCelik00/MelihCelik00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2>
 
 Hello everyone, I'm Melih. I am a software developer from Turkey. I am Geomatics Engineering Student at Istanbul Technical University. I love working on Robotics and Game Development. I love to code with Python, C# and C++.
@@ -14,7 +11,6 @@ Hello everyone, I'm Melih. I am a software developer from Turkey. I am Geomatics
 - 💬 Ask me about anything you think that I can answer.
 - 📫 How to reach me: You can reach me via email: melihsafa.c@gmail.com
 - ⚡ Fun fact: I love playing basketball and video games.
--->
 
 **📫 Where to find me:** 
 
