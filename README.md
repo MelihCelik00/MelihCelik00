@@ -19,7 +19,7 @@ Hello everyone, I'm Melih. I'm a software developer from Turkey. I'm Geomatics E
 
 **Portfolio site:** [My Portfolio](https://web.itu.edu.tr/celikm18/portfolio.html)
 
-**💼 Currently working as:** Software Developer at <a href="https://www.rover.itu.edu.tr/" target="_blank"><b>ITU Rover Team</b></a> and also, Game Developer on my own.
+**💼 Currently working as:** Software Team Leader at <a href="https://www.rover.itu.edu.tr/" target="_blank"><b>ITU Rover Team</b></a> and also, Game Developer on my own.
 
 ![Melih's github stats](https://github-readme-stats.vercel.app/api?username=MelihCelik00&show_icons=true&line_height=30)
 
