@@ -6,7 +6,7 @@ Hello everyone, I'm Melih. I'm a software developer from Turkey. I'm Geomatics E
 
 **Summary about me:**
 
-- 🔭 I’m currently working on Hyper Casual Games with Unity.
+- 🔭 I’m currently working on Game Development with Unity.
 - 🌱 I’m currently learning C++(to get better at it) and Game Development.
 - 💬 Ask me about anything you think that I can answer.
 - 📫 How to reach me: You can reach me via email: melihsafa.c@gmail.com
