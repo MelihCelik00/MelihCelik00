@@ -7,7 +7,7 @@ Hello everyone, I'm Melih. I'm a software developer from Turkey. I'm Geomatics E
 **Summary about me:**
 
 - 🔭 I’m currently working on Game Development with Unity.
-- 🌱 I’m currently learning C++(to get better at it) and Game Development.
+- 🌱 I’m currently learning C++(to get better at it) and Game AI.
 - 💬 Ask me about anything you think that I can answer.
 - 📫 How to reach me: You can reach me via email: melihsafa.c@gmail.com
 - ⚡ Fun fact: I love playing basketball and video games.
@@ -19,7 +19,7 @@ Hello everyone, I'm Melih. I'm a software developer from Turkey. I'm Geomatics E
 
 **Portfolio site:** [My Portfolio](https://web.itu.edu.tr/celikm18/portfolio.html)
 
-**💼 Currently working as:** Electroware (Electronics and Software) Team Co-Leader at <a href="https://www.rover.itu.edu.tr/" target="_blank"><b>ITU Rover Team</b></a> and also, Game Developer on my own.
+**💼 Currently working as:** Electroware (Electronics and Software) Team Co-Leader at <a href="https://www.rover.itu.edu.tr/" target="_blank"><b>ITU Rover Team</b></a> and also, Founder & Lead Game Developer at Ogus Games.
 
 ![Melih's github stats](https://github-readme-stats.vercel.app/api?username=MelihCelik00&show_icons=true&line_height=30)
 
