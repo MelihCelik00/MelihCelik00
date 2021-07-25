@@ -2,15 +2,15 @@
 
 <img src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2>
 
-Hello everyone, I'm Melih. I'm a software developer from Turkey. I'm Geomatics Engineering Student at Istanbul Technical University. I love working on Robotics and Game Development. I love to code with Python, C# and C++.
+Hello everyone, I'm Melih. I'm a software developer from Turkey. I'm 3rd grade Geomatics Engineering Student at Istanbul Technical University. I love working on Robotics and Game Development. I love to code with Python, C# and C++.
 
 **Summary about me:**
 
-- 🔭 I’m currently working on Game Development with Unity.
-- 🌱 I’m currently learning C++(to get better at it) and Game AI.
+- 🔭 I’m currently working on HD Map development on autonomous vehicles.
+- 🌱 I’m currently learning HD map development on CARLA Simulator.
 - 💬 Ask me about anything you think that I can answer.
 - 📫 How to reach me: You can reach me via email: melihsafa.c@gmail.com
-- ⚡ Fun fact: I love playing basketball and video games.
+- ⚡ Fun fact: I love playing basketball, table tennis and video games.
 
 **📫 Where to find me:** 
 
@@ -19,7 +19,7 @@ Hello everyone, I'm Melih. I'm a software developer from Turkey. I'm Geomatics E
 
 **Portfolio site:** [My Portfolio](https://melihcelik00.github.io/)
 
-**💼 Currently working as:** Electroware (Electronics and Software) Team Co-Leader at <a href="https://www.rover.itu.edu.tr/" target="_blank"><b>ITU Rover Team</b></a> and also, Founder & Lead Game Developer at Ogus Games.
+**💼 Currently working as:** Engineer Intern at FEV Turkey and Founder & Lead Game Developer at Ogus Games.
 
 ![Melih's github stats](https://github-readme-stats.vercel.app/api?username=MelihCelik00&show_icons=true&line_height=30)
 
