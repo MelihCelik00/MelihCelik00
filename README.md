@@ -19,7 +19,7 @@ Hello everyone, I'm Melih. I'm a software developer from Turkey. I'm 3rd grade G
 
 **Portfolio site:** [My Portfolio](https://melihcelik00.github.io/)
 
-**💼 Currently working as:** Engineer Intern at FEV Turkey and Founder & Lead Game Developer at Ogus Games.
+**💼 Currently working as:** Incoming Smart Vehicle Development Engineer at FEV Turkey and Founder & Lead Game Developer at Ogus Games.
 
 ![Melih's github stats](https://github-readme-stats.vercel.app/api?username=MelihCelik00&show_icons=true&line_height=30)
 
