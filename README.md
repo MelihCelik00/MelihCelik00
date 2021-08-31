@@ -6,8 +6,7 @@ Hello everyone, I'm Melih. I'm a software developer from Turkey. I'm 3rd grade G
 
 **Summary about me:**
 
-- 🔭 I’m currently working on HD Map development on autonomous vehicles.
-- 🌱 I’m currently learning HD map development on CARLA Simulator.
+- 🔭 I’m currently working on hardware-in-loop aplications fo autonomous driving.
 - 💬 Ask me about anything you think that I can answer.
 - 📫 How to reach me: You can reach me via email: melihsafa.c@gmail.com
 - ⚡ Fun fact: I love playing basketball, table tennis and video games.
