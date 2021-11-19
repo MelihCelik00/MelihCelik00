@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2>
 
-Hello everyone, I'm Melih. I'm 3rd grade Geomatics Engineering Student at Istanbul Technical University who is eager to be a professional software engineer. I love working on Automotive, Robotics and Game Development. I love to code with Python, C++ and C#.
+Hello everyone, I'm Melih. I'm 3rd grade Geomatics Engineering Student at Istanbul Technical University who is eager to be a professional software engineer. I love working on Automotive, Robotics and App&Game Development. I love to code with Python, C++ and C#.
 
 **Summary about me:**
 
