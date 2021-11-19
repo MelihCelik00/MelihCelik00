@@ -6,7 +6,7 @@ Hello everyone, I'm Melih. I'm 3rd grade Geomatics Engineering Student at Istanb
 
 **Summary about me:**
 
-- 🔭 I’m currently working on the software development for autonomous cars.
+- 🔭 I’m currently working on the software development for autonomous cars especially focused on sensor data processing and ADAS features.
 - 💬 Ask me about anything you think that I can answer.
 - 📫 How to reach me: You can reach me via email: melihsafa.c@gmail.com or celik_mel@fev.com
 - ⚡ Fun fact: I love playing basketball, table tennis, guitar and video games.
