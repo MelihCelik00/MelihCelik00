@@ -18,7 +18,7 @@ Hello everyone, I'm Melih. I'm 3rd grade Geomatics Engineering Student at Istanb
 
 **Portfolio site:** [My Portfolio](https://melihcelik00.github.io/)
 
-**💼 Currently working as:** Smart Vehicle Development Engineer at FEV Turkey and Founder & Lead Game Developer at Ogus Games.
+**💼 Currently working as:** Smart Vehicle Development Engineer at FEV Turkey.
 
 ![Melih's github stats](https://github-readme-stats.vercel.app/api?username=MelihCelik00&show_icons=true&line_height=30)
 
