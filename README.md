@@ -6,7 +6,7 @@ Hello everyone, I'm Melih. I'm 3rd grade Geomatics Engineering Student at Istanb
 
 **Summary about me:**
 
-- 🔭 I’m currently working on the software development for autonomous cars especially focused on sensor data processing and ADAS features.
+- 🔭 I’m currently working on the software development for autonomous cars especially focused on sensor data processing and ADAS features. Also, I'm interested with backend technologies so I'm currently learning Web Development with GO too.
 - 💬 Ask me about anything you think that I can answer.
 - 📫 How to reach me: You can reach me via email: melihsafa.c@gmail.com or celik_mel@fev.com
 - ⚡ Fun fact: I love playing basketball, table tennis, guitar and video games.
@@ -18,7 +18,7 @@ Hello everyone, I'm Melih. I'm 3rd grade Geomatics Engineering Student at Istanb
 
 **Portfolio site:** [My Portfolio](https://melihcelik00.github.io/)
 
-**💼 Currently working as:** Smart Vehicle Development Engineer at FEV Turkey.
+**💼 Currently working as:** Smart Vehicle Development Engineer at FEV Turkey and hobbyist game developer on my own.
 
 ![Melih's github stats](https://github-readme-stats.vercel.app/api?username=MelihCelik00&show_icons=true&line_height=30)
 
