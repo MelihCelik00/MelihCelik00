@@ -18,7 +18,6 @@ Hello everyone, I'm Melih. I'm 3rd grade Geomatics Engineering Student at Istanb
 [![Linkedin Badge](https://img.shields.io/badge/-melihsafacelik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melihsafacelik/)](https://www.linkedin.com/in/melihsafacelik/) 
 [![Gmail Badge](https://img.shields.io/badge/-melihsafa.c@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:melihsafa.c@gmail.com)](mailto:melihsafa.c@gmail.com)
 
-**Portfolio site:** [My Portfolio](https://melihcelik00.github.io/)
 
 **💼 Currently working as:** Smart Vehicle Development Engineer at FEV Turkey and hobbyist game developer on my own.
 
