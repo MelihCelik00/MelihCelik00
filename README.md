@@ -19,7 +19,7 @@ Hello everyone, I'm Melih. I'm 4rd grade (yeah finally senior) Geomatics Enginee
 [![Gmail Badge](https://img.shields.io/badge/-melihsafa.c@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:melihsafa.c@gmail.com)](mailto:melihsafa.c@gmail.com)
 
 
-**💼 Currently working as:** Currently working as Software Development Intern at Pointr: The Deep Location Company, focused on machine learning and deep learning, object detection and semantic segmentation. 
+**💼 Currently working as:** Currently working as Backend Development Intern at PoiLabs. Working with NodeJS and so on.
 
 ![Melih's github stats](https://github-readme-stats.vercel.app/api?username=MelihCelik00&show_icons=true&line_height=30)
 
