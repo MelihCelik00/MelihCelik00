@@ -6,7 +6,7 @@ Hello everyone, I'm Melih. I'm 4rd grade (yeah finally senior) Geomatics Enginee
 
 **Summary about me:**
 
-- 🔭 I’m currently working on Backend Development and Machine Learning/Deep Learning separately. Me and my few friends have been working on Beraber Barın which is aimed to be a social enterprise for a public good.
+- 🔭 I’m currently working on Backend Development and Machine Learning/Deep Learning separately. We (me n my friends) have been working on Beraber Barın which is aimed to be a social enterprise for a public good.
 - 💬 Ask me about anything you think that I can answer.
 - 📫 How to reach me: You can reach me via email: melihsafa.c@gmail.com.
 - ⚡ Fun fact: I love playing basketball, table tennis, guitar and video games. I love following and watching motorsports especially Formula 1 and Formula 2!
