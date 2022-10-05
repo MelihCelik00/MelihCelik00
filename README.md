@@ -25,3 +25,6 @@ Hello everyone, I'm Melih. I'm 4rd grade (yeah finally senior) Geomatics Enginee
 
 #### Visitors (since 14 December 2021)
 ![:Melih](https://count.getloli.com/get/@:MelihCelik00?theme=rule34)
+
+## Checkout Songs That I Recently Listened
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11184457630)
