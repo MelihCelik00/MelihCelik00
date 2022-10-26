@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2>
 
-Hello everyone, I'm Melih. I'm 4rd grade (yeah finally senior) Geomatics Engineering Student at Istanbul Technical University who is eager to be a professional software engineer. I love working on Software Development Development. I love to code with Python, C++, JavaScript and C#.
+Hello everyone, I'm Melih. I'm 4rd grade (yeah finally senior) Geomatics Engineering Student at Istanbul Technical University who is eager to be a professional software engineer. I love working on Software Development. I love to code with Python, C++, JavaScript and C#.
 
 **Summary about me:**
 
