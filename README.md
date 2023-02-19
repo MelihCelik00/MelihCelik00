@@ -6,18 +6,16 @@ Hello everyone, I'm Melih. I'm 4rd grade (yeah finally senior) Geomatics Enginee
 
 **Summary about me:**
 
-- 🔭 I’m currently working on Backend Development and Machine Learning/Deep Learning separately. We (me n my friends) have been working on Beraber Barın which is aimed to be a social enterprise for a public good.
+- 🔭 I’m currently working on Backend Development. Researching about low-latency & big-scaled game backends nowadays.
 - 💬 Ask me about anything you think that I can answer.
 - 📫 How to reach me: You can reach me via email: melihsafa.c@gmail.com.
-- ⚡ Fun fact: I love playing basketball, table tennis, guitar and video games. I love following and watching motorsports especially Formula 1 and Formula 2!
-
-<img src="https://i.imgur.com/Pz2cG.gif" width="480" height="252"></h2>
+- ⚡ Fun fact: I love playing basketball, table tennis, guitar and video games. I love following and watching motorsports especially Formula 1!
 
 **📫 Where to find me:** 
 
 [![Linkedin Badge](https://img.shields.io/badge/-melihsafacelik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melihsafacelik/)](https://www.linkedin.com/in/melihsafacelik/) 
 [![Gmail Badge](https://img.shields.io/badge/-melihsafa.c@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:melihsafa.c@gmail.com)](mailto:melihsafa.c@gmail.com)
-[Stackoverflow ](https://stackoverflow.com/users/10926848/melih-safa-celik)
+[Stackoverflow](https://stackoverflow.com/users/10926848/melih-safa-celik)
 
 **💼 Currently working as:** Currently working as Backend Developer at PoiLabs. Working with NodeJS and so on.
 
@@ -26,5 +24,3 @@ Hello everyone, I'm Melih. I'm 4rd grade (yeah finally senior) Geomatics Enginee
 #### Visitors (since 14 December 2021)
 ![:Melih](https://count.getloli.com/get/@:MelihCelik00?theme=rule34)
 
-## Checkout Songs That I Recently Listened
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11184457630)
