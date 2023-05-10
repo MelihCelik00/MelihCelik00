@@ -22,8 +22,6 @@ Hello everyone, I'm Melih. I'm 4rd grade (yeah finally senior) Geomatics Enginee
 
 **💼 Currently working as:** Currently working as Backend Developer at PoiLabs. Working with NodeJS and so on.
 
-<img src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2>
-
 ![Melih's github stats](https://github-readme-stats.vercel.app/api?username=MelihCelik00&show_icons=true&line_height=30)
 
 #### Visitors (since 14 December 2021)
