@@ -9,7 +9,7 @@ Hello everyone, I'm Melih. I'm 4rd grade (yeah finally senior) Geomatics Enginee
 
 **Summary about me:**
 
-- 🔭 I’m currently working on Backend Development. Researching about low-latency & big-scaled game backends nowadays.
+- 🔭 I’m currently working on Backend Development and specializing in Infrastructure, Cloud, and DevOps aspects of software engineering. Working on the SaaS application at my current company as the only backend engineer.
 - 💬 Ask me about anything you think that I can answer.
 - 📫 How to reach me: You can reach me via email: melihsafa.c@gmail.com.
 - ⚡ Fun fact: I love playing basketball, table tennis, guitar and video games. I love following and watching motorsports especially Formula 1!
@@ -20,7 +20,7 @@ Hello everyone, I'm Melih. I'm 4rd grade (yeah finally senior) Geomatics Enginee
 [![Gmail Badge](https://img.shields.io/badge/-melihsafa.c@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:melihsafa.c@gmail.com)](mailto:melihsafa.c@gmail.com)
 [Stackoverflow](https://stackoverflow.com/users/10926848/melih-safa-celik)
 
-**💼 Currently working as:** Currently not working. Open to new job opportunities.
+**💼 Currently working as:** Backend Developer at PoiLabs. Always open to new opportunities.
 
 ![Melih's github stats](https://github-readme-stats.vercel.app/api?username=MelihCelik00&show_icons=true&line_height=30)
 
