@@ -5,7 +5,7 @@
 
 <img align="center"  width="100%" alt="GIF" src="https://media4.giphy.com/media/rxxoE6WzgCUG4/giphy.gif?cid=ecf05e47rcv3fmbef39hpfuuiqg71546l8l9nkx9xs63j751&rid=giphy.gif&ct=g" />
 
-Hello everyone, I'm Melih. I'm 4rd grade (yeah finally senior) Geomatics Engineering Student at Istanbul Technical University who is eager to be a professional software engineer. I love working on Software Development. I love to code with Python, C++, JavaScript and C#.
+Hello everyone, I'm Melih. I'm a recent Geomatics Engineering Graduate from Istanbul Technical University who is eager to be a professional software engineer. I love working on Software Development. I love to code with Python, C++, JavaScript and C#. Working with **Kotlin** right now!
 
 **Summary about me:**
 
@@ -20,7 +20,7 @@ Hello everyone, I'm Melih. I'm 4rd grade (yeah finally senior) Geomatics Enginee
 [![Gmail Badge](https://img.shields.io/badge/-melihsafa.c@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:melihsafa.c@gmail.com)](mailto:melihsafa.c@gmail.com)
 [Stackoverflow](https://stackoverflow.com/users/10926848/melih-safa-celik)
 
-**💼 Currently working as:** Backend Developer at PoiLabs. Always open to new opportunities.
+**💼 Currently working as:** Associate Backend Developer at Trendyol Group.
 
 ![Melih's github stats](https://github-readme-stats.vercel.app/api?username=MelihCelik00&show_icons=true&line_height=30)
 
