@@ -5,11 +5,11 @@
 
 <img align="center"  width="100%" alt="GIF" src="https://media4.giphy.com/media/rxxoE6WzgCUG4/giphy.gif?cid=ecf05e47rcv3fmbef39hpfuuiqg71546l8l9nkx9xs63j751&rid=giphy.gif&ct=g" />
 
-Hello everyone, I'm Melih. I'm a recent Geomatics Engineering Graduate from Istanbul Technical University who is eager to be a professional software engineer. I love working on Software Development. I love to code with Python, C++, JavaScript and C#. Working with **Kotlin** right now!
+Hello everyone, I'm Melih. I'm a recent Geomatics Engineering Graduate from Istanbul Technical University who is eager to be a professional software engineer. I love working on Software Development. I love to code with Python, C++, JavaScript and C#. Working with **Kotlin** and **Golang** right now!
 
 **Summary about me:**
 
-- 🔭 I’m currently working on Backend Development and specializing in Infrastructure, Cloud, and DevOps aspects of software engineering. Working on the SaaS application at my current company as the only backend engineer.
+- 🔭 I’m currently working on Backend Development and Microservices.
 - 💬 Ask me about anything you think that I can answer.
 - 📫 How to reach me: You can reach me via email: melihsafa.c@gmail.com.
 - ⚡ Fun fact: I love playing basketball, table tennis, guitar and video games. I love following and watching motorsports especially Formula 1!
@@ -22,10 +22,10 @@ Hello everyone, I'm Melih. I'm a recent Geomatics Engineering Graduate from Ista
 
 **💼 Currently working as:** Associate Backend Developer at Trendyol Group.
 
-![Melih's github stats](https://github-readme-stats.vercel.app/api?username=MelihCelik00&show_icons=true&line_height=30)
+<!-- ![Melih's github stats](https://github-readme-stats.vercel.app/api?username=MelihCelik00&show_icons=true&line_height=30) -->
 
 #### Visitors (since 14 December 2021)
 ![:Melih](https://count.getloli.com/get/@:MelihCelik00?theme=rule34)
 
-<img src="https://media.giphy.com/media/AcfTF7tyikWyroP0x7/giphy.gif" width="480" height="270"> 
+<!--img src="https://media.giphy.com/media/AcfTF7tyikWyroP0x7/giphy.gif" width="480" height="270"--> 
 
