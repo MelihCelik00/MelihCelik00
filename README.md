@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melih Safa Çelik</h1>
 <h3 align="center">A passionate Backend Developer from Turkey</h3>
 
-- 🔭 I’m currently working as ** Software Engineer at Migros One.**  
+- 🔭 I’m currently working as **Software Engineer at Migros One.**  
 - 🌱 I’m currently improving my skills in **Java.**  
 - 💬 Ask me about **Backend Development, Databases and Microservices**  
 
